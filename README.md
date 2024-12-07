@@ -38,5 +38,6 @@ pip install pandas matplotlib seaborn numpy
 python main.py
 ```
 
-To anonymise the leaderboard, as above, include flag `--anon` - otherwise usernames will show.
+To anonymise the leaderboard, include flag `--anon` - otherwise usernames will show, as above.
+
 To use a different json file, pass `--data={FILENAME}`.
