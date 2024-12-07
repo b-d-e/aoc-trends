@@ -1,4 +1,4 @@
-# 🎄 Advent of Code Visualizations
+# 🎄 Advent of Code Visualisations
 
 View trends for your private Advent of Code leaderboard.
 
